@@ -8,10 +8,10 @@ tags: [nintendo, yuzu, эмуляторы]     # TAG names should always be lowe
 ---
 ![1](/images/yezu_mario.jpeg)
 
-1 Нам нужен жмулятор Yuzu Early access 4176 (желтый) -
+## Нам нужен жмулятор Yuzu Early access 4176 (желтый) -
 https://web.archive.org/web/20240304183636if_/https://objects.githubusercontent.com/github-production-release-asset-2e65be/325036684/07a276e4-e6c6-4fac-b5ec-15aa3224ec4e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240304T183634Z&X-Amz-Expires=300&X-Amz-Signature=e25139db5d6c11c43852233455fe51a2c25e52a267674421b54d07fd5d5eb8b2&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=325036684&response-content-disposition=attachment%3B%20filename%3DWindows-Yuzu-EA-4176.zip&response-content-type=application%2Foctet-stream
 
-2 нужны файлы ключей и прошивки 17.0 или 17.0.1
+## нужны файлы ключей и прошивки 17.0 или 17.0.1
 
 тема на 4пда - https://4pda.to/forum/index.php?showtopic=1070467&st=4420
 ссылка пост на 4пда - https://4pda.to/forum/index.php?act=findpost&pid=126024483&anchor=Spoil-126024483-1
@@ -24,7 +24,7 @@ https://web.archive.org/web/20240304183636if_/https://objects.githubusercontent.
 2.2 Ключ 17.0 - https://4pda.to/forum/dl/post/29483267/Prod%2BKeys%2B17.0.0.zip
 
 
-3 Yuzu использует только игры формата NZS, то там нужен конвертер скачанных игр NSZ в NSP -
+## Yuzu использует только игры формата NZS, то там нужен конвертер скачанных игр NSZ в NSP -
 https://4pda.to/forum/dl/post/32495158/nsz_v4.6.1_win64_portable.rar
 https://github.com/nicoboss/nsz
 
@@ -34,7 +34,8 @@ https://4pda.to/forum/index.php?showtopic=1070467&view=findpost&p=135125762
 3.1 Нужно создать папку свитч по адресу %USERPROFILE%/.switch/     (C:\Users\вашеимяпользователявиндовс\.switch) и туда копируем копию ключа, который скачали выше 2.2 
 3.2 уставливаем питон https://www.python.org/downloads/
 
-4 Конвертируем игры. Заходим в папку NZS. На вин11 ПКМ - Открыть в терминале. 
+## Конвертируем игры. 
+Заходим в папку NZS. На вин11 ПКМ - Открыть в терминале. 
 На вин<10 открываем терминал через пуск пишем - CD D: если папка с NZD на диске Д. Если на Ц, то сразу пишем CD "путь до папки NZD". Например 
 CD E:\nsz_v4.6.1_win64_portable
 
