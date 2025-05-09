@@ -1,5 +1,7 @@
 ---
-title: Как поиграть по онлайну через эмулятор Yuzu 
+title: Как поиграть по онлайну через эмулятор Yuzu
+description: >-
+  Небольшой гайд по настройке эмулятора yuzu 2025.
 date: 2025-03-09 12:03:01 +0300
 categories: [Видеоигры, Гайды]
 tags: [nintendo, yuzu, эмуляторы]     # TAG names should always be lowercase
