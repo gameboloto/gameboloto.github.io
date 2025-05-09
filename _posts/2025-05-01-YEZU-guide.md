@@ -6,9 +6,9 @@ date: 2025-03-09 12:03:01 +0300
 categories: [Видеоигры, Гайды]
 tags: [nintendo, yuzu, эмуляторы]     # TAG names should always be lowercase
 image:
-  path: https://gameboloto.github.io/assets/img/yezu_mario.jpeg
+  path: /img/yezu_mario.jpg
 ---
-//![1](https://gameboloto.github.io/assets/img/yezu_mario.jpeg)
+![1](https://gameboloto.github.io/assets/img/yezu_mario.jpg)
 
 ## Нам нужен жмулятор Yuzu Early access 4176 (желтый) -
 https://web.archive.org/web/20240304183636if_/https://objects.githubusercontent.com/github-production-release-asset-2e65be/325036684/07a276e4-e6c6-4fac-b5ec-15aa3224ec4e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240304T183634Z&X-Amz-Expires=300&X-Amz-Signature=e25139db5d6c11c43852233455fe51a2c25e52a267674421b54d07fd5d5eb8b2&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=325036684&response-content-disposition=attachment%3B%20filename%3DWindows-Yuzu-EA-4176.zip&response-content-type=application%2Foctet-stream
