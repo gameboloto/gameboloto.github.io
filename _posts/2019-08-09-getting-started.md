@@ -4,8 +4,8 @@ description: >-
   В посте ты найдешь все важные ссылки, как и куда.
 author: cotes
 date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: [Новости, Гайды]
+tags: [ссылки]
 pin: true
 media_subpath: '/posts/20180809'
 ---
