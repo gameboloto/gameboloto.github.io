@@ -12,11 +12,17 @@ image:
   path: https://game-boloto.ru/assets/img/347685478002.jpg
 ---
 
-##[Дискорд](https://discord.gg/cx64639mf8)
+## Дискорд
 
-###[Телеграм](https://t.me/+s_7-0vBB0SFhYTc6)
+[Дискорд](https://discord.gg/cx64639mf8)
 
-##[Стим](https://steamcommunity.com/chat/invite/bz0X7suC)
+### Телеграм
+
+[Телеграм](https://t.me/+s_7-0vBB0SFhYTc6)
+
+### Стим
+
+[Стим](https://steamcommunity.com/chat/invite/bz0X7suC)
 
 ## Еще
 
