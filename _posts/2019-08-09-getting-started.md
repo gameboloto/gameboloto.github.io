@@ -8,24 +8,25 @@ categories: [Новости, Гайды]
 tags: [ссылки]
 pin: true
 media_subpath: '/posts/20180809'
+image:
+  path: https://game-boloto.ru/assets/img/347685478002.jpg
 ---
 
 ## Дискорд
 
-[Основная Discord группа](#)
+[Дискорд](https://discord.gg/cx64639mf8)\
 
 ### Телеграм
 
-[Резервный Телеграм чат](#)
+[Телеграм](https://t.me/+s_7-0vBB0SFhYTc6)\
 
 ### Стим
 
-
-[Steam группа](#).
+[Стим](https://steamcommunity.com/chat/invite/bz0X7suC)
 
 ## Еще
 
-Резерв
+[Minecraft сервер](#publications)
 
 
 [nodejs]: https://nodejs.org/
