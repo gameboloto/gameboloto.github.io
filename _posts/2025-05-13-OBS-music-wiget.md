@@ -15,11 +15,11 @@ image:
 [https://game-boloto.ru/lastfm/index.html](https://game-boloto.ru/lastfm/index.html)
 или [https://game-boloto.ru/lastfm/](https://game-boloto.ru/lastfm/)  
 В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
- ```https://game-boloto.ru/lastfm/index.html?user=username&token=api_token```  
- Замените username на имя пользователя Last.fm.  
- Замените api_token на [API ключ Last.fm](https://www.last.fm/ru/api/authentication).  
- [Подключить Spotify к LastFm](https://www.last.fm/settings/applications)  
- Так же можно подключить яндекс музыку или [Скроблер всего](https://chromewebstore.google.com/detail/web-scrobbler/hhinaapppaileiechjoiifaancjggfjm)
+```https://game-boloto.ru/lastfm/index.html?user=username&token=api_token```  
+Замените username на имя пользователя Last.fm.  
+Замените api_token на [API ключ Last.fm](https://www.last.fm/ru/api/authentication).  
+[Подключить Spotify к LastFm](https://www.last.fm/settings/applications)  
+Так же можно подключить яндекс музыку или [Скроблер всего](https://chromewebstore.google.com/detail/web-scrobbler/hhinaapppaileiechjoiifaancjggfjm)
 
 
 ----
