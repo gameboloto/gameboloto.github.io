@@ -2,7 +2,7 @@
 title: Ссылки на сообщества
 description: >-
   В посте ты найдешь все важные ссылки, как и куда.
-author: cotes
+author: andrew
 date: 2019-08-09 20:55:00 +0800
 categories: [Новости, Гайды]
 tags: [ссылки]
