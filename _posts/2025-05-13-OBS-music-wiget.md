@@ -13,8 +13,8 @@ image:
 
 ## Виджет OBS
 [https://game-boloto.ru/lastfm/index.html](https://game-boloto.ru/lastfm/index.html)
-или [https://game-boloto.ru/lastfm/](https://game-boloto.ru/lastfm/)
- В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
+или [https://game-boloto.ru/lastfm/](https://game-boloto.ru/lastfm/)  
+В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
  ```https://game-boloto.ru/lastfm/index.html?user=username&token=api_token```  
  Замените username на имя пользователя Last.fm.  
  Замените api_token на [API ключ Last.fm](https://www.last.fm/ru/api/authentication).  
