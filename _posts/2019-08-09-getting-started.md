@@ -18,7 +18,7 @@ image:
 
 ### Телеграм
 
-[Телеграм](https://t.me/+s_7-0vBB0SFhYTc6)
+[Телеграм](https://t.me/+s_7-0vBB0SFhYTc6) 
 
 ### Стим
 
