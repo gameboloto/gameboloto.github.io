@@ -6,7 +6,6 @@ author: cotes
 date: 2025-05-13 20:55:00 +0800
 categories: [Гайды, Стриминг]
 tags: [lastfm, spotify]
-pin: true
 media_subpath: '/posts/20180809'
 image:
   path: https://www.last.fm/static/images/lastfm_logo_facebook.15d8133be114.png
