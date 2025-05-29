@@ -13,7 +13,7 @@ image:
 
 ## Minecraft Game-Boloto сервер
 Адрес сервера:   
-gbmc.ddns.net
+gbmc.ddns.net  
 
 ![](https://mcapi.us/server/image?ip=gbmc.ddns.net)
 
