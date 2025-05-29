@@ -15,7 +15,7 @@ image:
 Адрес сервера:   
 gbmc.ddns.net
 
-![https://mcapi.us/server/image?ip=gbmc.ddns.net]
+![](https://mcapi.us/server/image?ip=gbmc.ddns.net)
 
 ----
 
