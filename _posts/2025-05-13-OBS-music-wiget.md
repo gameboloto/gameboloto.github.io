@@ -2,7 +2,7 @@
 title: Виджет OBS для показа музыки на стриме
 description: >-
   Как настроить виджет OBS для показа музыки на стриме.
-author: -Bobas-
+
 date: 2025-05-13 07:00:00 +0300
 categories: [Гайды, Стриминг]
 tags: [lastfm, spotify]
