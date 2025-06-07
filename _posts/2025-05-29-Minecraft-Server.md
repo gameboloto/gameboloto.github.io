@@ -2,7 +2,7 @@
 title: Как поиграть бесплатно в Minecraft
 description: >-
   Бесплатный Minecraft Game-Boloto сервер.
-author: andrew
+author: Andrew
 date: 2025-05-29 07:00:00 +0300
 categories: [Гайды, Сервер]
 tags: [minecraft, онлайн игры]
