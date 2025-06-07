@@ -26,7 +26,7 @@ image:
 
 ## Еще
 
-[Minecraft сервер](#publications)
+[Minecraft сервер](/posts/Minecraft-Server/)
 
 
 [nodejs]: https://nodejs.org/
