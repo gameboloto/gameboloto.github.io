@@ -12,10 +12,10 @@ image:
 ---
 
 ## Виджет OBS
-[https://game-boloto.ru/lastfm/index.html](https://game-boloto.ru/lastfm/index.html)
-или [https://game-boloto.ru/lastfm/](https://game-boloto.ru/lastfm/)  
+[https://gameboloto.github.io/lastfm/index.html](https://gameboloto.github.io/lastfm/index.html)
+или [https://gameboloto.github.io/lastfm/](https://gameboloto.github.io/lastfm/)  
 В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
-```https://game-boloto.ru/lastfm/index.html?user=username&token=api_token```  
+```https://gameboloto.github.io/lastfm/index.html?user=username&token=api_token```  
 Замените username на имя пользователя Last.fm.  
 Замените api_token на [API ключ Last.fm](https://www.last.fm/ru/api/authentication).  
 [Подключить Spotify к LastFm](https://www.last.fm/settings/applications)  
@@ -25,11 +25,11 @@ image:
 ----
 
 ## OBS Widget
-[https://game-boloto.ru/lastfm/index.html](https://game-boloto.ru/lastfm/index.html)  
-or [https://game-boloto.ru/lastfm/](https://game-boloto.ru/lastfm/)  
+[https://gameboloto.github.io/lastfm/index.html](https://gameboloto.github.io/lastfm/index.html)  
+or [https://game-boloto.ru/lastfm/](https://gameboloto.github.io/lastfm/)  
 
 In OBS add a "Browser" source and specify the URL in the format:  
-```https://game-boloto.ru/lastfm/index.html?user=username&token=api_token```  
+```https://gameboloto.github.io/lastfm/index.html?user=username&token=api_token```  
 
 Replace **username** with your Last.fm username.  
 Replace **api_token** with [Last.fm API key](https://www.last.fm/ru/api/authentication).  
