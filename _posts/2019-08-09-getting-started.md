@@ -9,7 +9,7 @@ tags: [ссылки]
 pin: true
 media_subpath: '/posts/20180809'
 image:
-  path: https://game-boloto.ru/assets/img/347685478002.jpg
+  path: https://gameboloto.github.io/assets/img/347685478002.jpg
 ---
 
 ## Дискорд
