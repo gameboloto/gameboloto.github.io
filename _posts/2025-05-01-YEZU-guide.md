@@ -15,21 +15,20 @@ image:
 
 
 ## нужны файлы ключей и прошивки 17.0 или 17.0.1
-
-тема на 4пда - [Ссылка](https://4pda.to/forum/index.php?showtopic=1070467&st=4420)
-Ссылка пост на 4пда - [Ссылка](https://4pda.to/forum/index.php?act=findpost&pid=126024483&anchor=Spoil-126024483-1)
+[Тема на 4пда](https://4pda.to/forum/index.php?showtopic=1070467&st=4420)  
+[Ссылка пост на 4пда](https://4pda.to/forum/index.php?act=findpost&pid=126024483&anchor=Spoil-126024483-1)  
 Если не качает регайтесь на 4пда. 
 
-2.1 Прошивка 17.0.1 - [Ссылка](https://4pda.to/stat/go?u=https%3A%2F%2Fgithub.com%2FTHZoria%2FNX_Firmware%2Freleases%2Fdownload%2F17.0.1%2FFirmware.17.0.1.zip&e=126024483)
-2.1 Прошивка 17.0 -  [Ссылка](https://4pda.to/stat/go?u=https%3A%2F%2Fgithub.com%2FTHZoria%2FNX_Firmware%2Freleases%2Fdownload%2F17.0.0%2FFirmware.17.0.0.zip&e=126024483)
+2.1 [Прошивка 17.0.1](https://4pda.to/stat/go?u=https%3A%2F%2Fgithub.com%2FTHZoria%2FNX_Firmware%2Freleases%2Fdownload%2F17.0.1%2FFirmware.17.0.1.zip&e=126024483)  
+2.1 [Прошивка 17.0](https://4pda.to/stat/go?u=https%3A%2F%2Fgithub.com%2FTHZoria%2FNX_Firmware%2Freleases%2Fdownload%2F17.0.0%2FFirmware.17.0.0.zip&e=126024483)  
 
-2.2 Ключ 17.0.1 - [Ссылка](https://4pda.to/forum/dl/post/30268747/Keys%2B17.0.1.7z)
-2.2 Ключ 17.0 - [Ссылка](https://4pda.to/forum/dl/post/29483267/Prod%2BKeys%2B17.0.0.zip)
+2.2 [Ключ 17.0.1](https://4pda.to/forum/dl/post/30268747/Keys%2B17.0.1.7z)  
+2.2 [Ключ 17.0](https://4pda.to/forum/dl/post/29483267/Prod%2BKeys%2B17.0.0.zip)
 
 
 ## Yuzu использует только игры формата NZS, то там нужен конвертер скачанных игр NSZ в NSP -
-[Ссылка](https://4pda.to/forum/dl/post/32495158/nsz_v4.6.1_win64_portable.rar)
-[Ссылка](https://github.com/nicoboss/nsz)
+[Ссылка1](https://4pda.to/forum/dl/post/32495158/nsz_v4.6.1_win64_portable.rar)
+[Ссылка2](https://github.com/nicoboss/nsz)
 
 [Ссылка на 4pda](https://4pda.to/forum/index.php?showtopic=1070467&view=findpost&p=135125762)
 
