@@ -33,7 +33,7 @@ image:
 [Ссылка2](https://github.com/nicoboss/nsz)  
 [Ссылка на 4pda](https://4pda.to/forum/index.php?showtopic=1070467&view=findpost&p=135125762)
 
-Нужно создать папку свитч по адресу %USERPROFILE%/.switch/ (C:\Users\вашеимяпользователявиндовс\.switch) и туда копируем копию ключа, который скачали выше (ключ 17 или 1701) 
+Нужно создать папку свитч по адресу %USERPROFILE%/.switch/ (C:\Users\вашеимяпользователявиндовс\.switch) и туда копируем копию ключа, который скачали выше (ключ 17 или 1701)  
 Уставливаем [питон](https://www.python.org/downloads/)
 
 ## Конвертируем игры. 
