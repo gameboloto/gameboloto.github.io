@@ -11,5 +11,5 @@ image:
 ---
 ## Полезные ссылки
 
-(Как выполнить задание "Первый плацдарм")[https://steamcommunity.com/sharedfiles/filedetails/?id=3596590714]  
-(Дерево прокачки)[https://i.redd.it/vz8x2zx6q5xf1.png]  
+[Как выполнить задание "Первый плацдарм"](https://steamcommunity.com/sharedfiles/filedetails/?id=3596590714)  
+[Дерево прокачки](https://i.redd.it/vz8x2zx6q5xf1.png)  
