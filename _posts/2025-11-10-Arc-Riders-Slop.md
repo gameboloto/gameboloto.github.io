@@ -3,7 +3,7 @@ title: Полезная информация по игре Arc Riders
 description: >-
   Полезная информация по игре Arc Riders
 author: Bobas
-date: 2025-03-09 12:03:01 +0300
+date: 2025-11-10 18:03:01 +0300
 categories: [Видеоигры, Гайды]
 tags: [arc riders, экстракшен]     # TAG names should always be lowercase
 image:
