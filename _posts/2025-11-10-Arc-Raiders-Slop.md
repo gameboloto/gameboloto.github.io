@@ -13,5 +13,5 @@ image:
 
 [Как выполнить задание "Первый плацдарм"](https://steamcommunity.com/sharedfiles/filedetails/?id=3596590714)  
 [Дерево прокачки](https://i.redd.it/vz8x2zx6q5xf1.png)  
-[Где найти опунции, оливки, абрикосы, лимоны и грибы в ARC Raiders](https://steamcommunity.com/sharedfiles/filedetails/?id=3600508650)
+[Где найти опунции, оливки, абрикосы, лимоны и грибы в ARC Raiders](https://steamcommunity.com/sharedfiles/filedetails/?id=3600508650)  
 [Интерактивная карта](https://metaforge.app/arc-raiders/map)
