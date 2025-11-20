@@ -7,7 +7,7 @@ date: 2025-11-10 18:03:01 +0300
 categories: [Видеоигры, Гайды]
 tags: [arc raiders, экстракшен]     # TAG names should always be lowercase
 image:
-  path: https://i.ibb.co/x8J6mK87/17636462082844.png
+  path: https://i.ibb.co/cXYD0ZcZ/17636462082896.png
 ---
 ## Полезные ссылки
 [Руководство по квестам в Ark](https://steamcommunity.com/sharedfiles/filedetails/?id=3597888671)  
