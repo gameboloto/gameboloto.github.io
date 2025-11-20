@@ -18,4 +18,4 @@ image:
 [Интерактивная карта](https://metaforge.app/arc-raiders/map)  
   
    
-![](https://i.ibb.co/d0GmZ9Kf/17632436754833.png)
+![](https://i.ibb.co/kgQmZncG/17632436754833.png)
