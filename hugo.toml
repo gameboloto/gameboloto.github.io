@@ -1,4 +1,4 @@
-baseURL = 'https://gameboloto.fun'
+baseURL = 'http://gameboloto.fun'
 locale = 'ru-ru'
 title = 'GAMEBOLOTO'
 theme = 'hugo-blog-awesome'
