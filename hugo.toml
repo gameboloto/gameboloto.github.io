@@ -6,6 +6,22 @@ disableKinds = ["RSS"]
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
 
+#### social ######
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.com/invite/ffCCkv6e2V"
+
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/gameboloto"
+
+[[params.socialIcons]]
+name = "steam"
+url = "https://steamcommunity.com/chat/invite/bz0X7suC"
+
+[[params.socialIcons]]
+name = "matrix"
+url = "https://matrix.to/#/#gameboloto:matrix.org"
 
 
 ############################## Russian language ################################
